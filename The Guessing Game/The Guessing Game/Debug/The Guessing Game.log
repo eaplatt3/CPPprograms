@@ -1,0 +1,9 @@
+﻿  Source.cpp
+c:\users\user\desktop\homework\spring 2017\bcs120 programming 1\programming assignments\final project\the guessing game\the guessing game\source.cpp(25): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  randnum.cpp
+  randlett.cpp
+c:\users\user\desktop\homework\spring 2017\bcs120 programming 1\programming assignments\final project\the guessing game\the guessing game\randlett.cpp(25): warning C4553: '==': operator has no effect; did you intend '='?
+c:\users\user\desktop\homework\spring 2017\bcs120 programming 1\programming assignments\final project\the guessing game\the guessing game\randlett.cpp(31): warning C4553: '==': operator has no effect; did you intend '='?
+  Generating Code...
+  The Guessing Game.vcxproj -> C:\Users\USER\Desktop\HomeWork\Spring 2017\BCS120 Programming 1\Programming Assignments\Final Project\The Guessing Game\Debug\The Guessing Game.exe
+  The Guessing Game.vcxproj -> C:\Users\USER\Desktop\HomeWork\Spring 2017\BCS120 Programming 1\Programming Assignments\Final Project\The Guessing Game\Debug\The Guessing Game.pdb (Full PDB)
