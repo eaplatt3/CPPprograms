@@ -1,0 +1,4 @@
+﻿  Source.cpp
+c:\users\user\desktop\homework\spring 2017\bcs120 programming 1\class programs\defaultarguments\defaultarguments\source.cpp(8): warning C4101: 'z': unreferenced local variable
+  defaultarguments.vcxproj -> C:\Users\USER\Desktop\HomeWork\Spring 2017\BCS120 Programming 1\Class Programs\defaultarguments\Debug\defaultarguments.exe
+  defaultarguments.vcxproj -> C:\Users\USER\Desktop\HomeWork\Spring 2017\BCS120 Programming 1\Class Programs\defaultarguments\Debug\defaultarguments.pdb (Full PDB)

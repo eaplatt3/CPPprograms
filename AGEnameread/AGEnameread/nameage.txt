@@ -1,0 +1,8 @@
+22 jim
+34 kate
+40 gus
+27 mary
+30 hubert
+50 sam
+13 joe
+12 adem

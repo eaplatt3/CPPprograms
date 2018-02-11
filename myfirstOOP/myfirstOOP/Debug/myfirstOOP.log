@@ -1,0 +1,29 @@
+﻿  printit2.cpp
+c:\users\user\desktop\homework\spring 2017\bcs120 programming 1\class programs\myfirstoop\myfirstoop\printit2.cpp(7): error C3867: 'Square::getSideA': non-standard syntax; use '&' to create a pointer to member
+c:\users\user\desktop\homework\spring 2017\bcs120 programming 1\class programs\myfirstoop\myfirstoop\printit2.cpp(8): error C3867: 'Square::getSideB': non-standard syntax; use '&' to create a pointer to member
+  Source.cpp
+c:\users\user\desktop\homework\spring 2017\bcs120 programming 1\class programs\myfirstoop\myfirstoop\square.h(3): error C2011: 'Square': 'class' type redefinition
+  c:\users\user\desktop\homework\spring 2017\bcs120 programming 1\class programs\myfirstoop\myfirstoop\square.h(3): note: see declaration of 'Square'
+c:\users\user\desktop\homework\spring 2017\bcs120 programming 1\class programs\myfirstoop\myfirstoop\source.cpp(10): error C2079: 's' uses undefined class 'Square'
+c:\users\user\desktop\homework\spring 2017\bcs120 programming 1\class programs\myfirstoop\myfirstoop\source.cpp(10): error C2079: 'l' uses undefined class 'Square'
+c:\users\user\desktop\homework\spring 2017\bcs120 programming 1\class programs\myfirstoop\myfirstoop\source.cpp(11): error C2079: 'z' uses undefined class 'Square'
+c:\users\user\desktop\homework\spring 2017\bcs120 programming 1\class programs\myfirstoop\myfirstoop\source.cpp(11): error C2440: 'initializing': cannot convert from 'initializer list' to 'int'
+  c:\users\user\desktop\homework\spring 2017\bcs120 programming 1\class programs\myfirstoop\myfirstoop\source.cpp(11): note: The initializer contains too many elements
+c:\users\user\desktop\homework\spring 2017\bcs120 programming 1\class programs\myfirstoop\myfirstoop\source.cpp(15): error C2228: left of '.setSideA' must have class/struct/union
+  c:\users\user\desktop\homework\spring 2017\bcs120 programming 1\class programs\myfirstoop\myfirstoop\source.cpp(15): note: type is 'int'
+c:\users\user\desktop\homework\spring 2017\bcs120 programming 1\class programs\myfirstoop\myfirstoop\source.cpp(19): error C2228: left of '.setSideB' must have class/struct/union
+  c:\users\user\desktop\homework\spring 2017\bcs120 programming 1\class programs\myfirstoop\myfirstoop\source.cpp(19): note: type is 'int'
+c:\users\user\desktop\homework\spring 2017\bcs120 programming 1\class programs\myfirstoop\myfirstoop\source.cpp(28): error C2228: left of '.print' must have class/struct/union
+  c:\users\user\desktop\homework\spring 2017\bcs120 programming 1\class programs\myfirstoop\myfirstoop\source.cpp(28): note: type is 'int'
+c:\users\user\desktop\homework\spring 2017\bcs120 programming 1\class programs\myfirstoop\myfirstoop\source.cpp(29): error C2228: left of '.area' must have class/struct/union
+  c:\users\user\desktop\homework\spring 2017\bcs120 programming 1\class programs\myfirstoop\myfirstoop\source.cpp(29): note: type is 'int'
+c:\users\user\desktop\homework\spring 2017\bcs120 programming 1\class programs\myfirstoop\myfirstoop\source.cpp(30): error C2228: left of '.perimeter' must have class/struct/union
+  c:\users\user\desktop\homework\spring 2017\bcs120 programming 1\class programs\myfirstoop\myfirstoop\source.cpp(30): note: type is 'int'
+c:\users\user\desktop\homework\spring 2017\bcs120 programming 1\class programs\myfirstoop\myfirstoop\source.cpp(32): error C2228: left of '.print' must have class/struct/union
+  c:\users\user\desktop\homework\spring 2017\bcs120 programming 1\class programs\myfirstoop\myfirstoop\source.cpp(32): note: type is 'int'
+c:\users\user\desktop\homework\spring 2017\bcs120 programming 1\class programs\myfirstoop\myfirstoop\source.cpp(33): error C2228: left of '.print' must have class/struct/union
+  c:\users\user\desktop\homework\spring 2017\bcs120 programming 1\class programs\myfirstoop\myfirstoop\source.cpp(33): note: type is 'int'
+c:\users\user\desktop\homework\spring 2017\bcs120 programming 1\class programs\myfirstoop\myfirstoop\source.cpp(34): error C2664: 'void printit(Square)': cannot convert argument 1 from 'int' to 'Square'
+  c:\users\user\desktop\homework\spring 2017\bcs120 programming 1\class programs\myfirstoop\myfirstoop\source.cpp(34): note: use of undefined type 'Square'
+  c:\users\user\desktop\homework\spring 2017\bcs120 programming 1\class programs\myfirstoop\myfirstoop\square.h(3): note: see declaration of 'Square'
+  Generating Code...
