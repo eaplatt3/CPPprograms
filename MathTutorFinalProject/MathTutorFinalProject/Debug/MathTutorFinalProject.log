@@ -1,0 +1,4 @@
+﻿  Source.cpp
+c:\users\user\desktop\homework\spring 2017\bcs120 programming 1\programming assignments\final project\mathtutorfinalproject\mathtutorfinalproject\source.cpp(27): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  MathTutorFinalProject.vcxproj -> C:\Users\USER\Desktop\HomeWork\Spring 2017\BCS120 Programming 1\Programming Assignments\Final Project\MathTutorFinalProject\Debug\MathTutorFinalProject.exe
+  MathTutorFinalProject.vcxproj -> C:\Users\USER\Desktop\HomeWork\Spring 2017\BCS120 Programming 1\Programming Assignments\Final Project\MathTutorFinalProject\Debug\MathTutorFinalProject.pdb (Full PDB)
