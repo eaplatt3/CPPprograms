@@ -1,0 +1,5 @@
+﻿  Source.cpp
+c:\users\user\desktop\school\fall 2017\bcs 230 programming 2\classwork\lab11task3\lab11task3\source.cpp(13): warning C4172: returning address of local variable or temporary: t
+c:\users\user\desktop\school\fall 2017\bcs 230 programming 2\classwork\lab11task3\lab11task3\source.cpp(9): warning C4172: returning address of local variable or temporary: buffer
+  Lab11Task3.vcxproj -> C:\Users\USER\Desktop\School\Fall 2017\BCS 230 Programming 2\Classwork\Lab11Task3\Debug\Lab11Task3.exe
+  Lab11Task3.vcxproj -> C:\Users\USER\Desktop\School\Fall 2017\BCS 230 Programming 2\Classwork\Lab11Task3\Debug\Lab11Task3.pdb (Partial PDB)

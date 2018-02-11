@@ -1,0 +1,4 @@
+﻿  Source.cpp
+c:\users\user\desktop\school\fall 2017\bcs 230 programming 2\assigments\populationproblem\populationproblem\source.cpp(30): warning C4244: 'return': conversion from 'double' to 'int', possible loss of data
+  PopulationProblem.vcxproj -> C:\Users\USER\Desktop\School\Fall 2017\BCS 230 Programming 2\Assigments\PopulationProblem\Debug\PopulationProblem.exe
+  PopulationProblem.vcxproj -> C:\Users\USER\Desktop\School\Fall 2017\BCS 230 Programming 2\Assigments\PopulationProblem\Debug\PopulationProblem.pdb (Full PDB)
